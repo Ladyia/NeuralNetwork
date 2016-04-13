@@ -1,0 +1,53 @@
+D:\SVNBox\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe.config
+D:\Box\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe.config
+D:\Box\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csprojResolveAssemblyReference.cache
+D:\Box\NeuralImages\NeuralImages\obj\Debug\MainWindow.baml
+D:\Box\NeuralImages\NeuralImages\obj\Debug\MainWindow.g.cs
+D:\Box\NeuralImages\NeuralImages\obj\Debug\App.g.cs
+D:\Box\NeuralImages\NeuralImages\obj\Debug\NeuralImages_MarkupCompile.cache
+D:\Box\NeuralImages\NeuralImages\obj\Debug\NeuralImages.g.resources
+D:\Box\NeuralImages\NeuralImages\obj\Debug\NeuralImages.Properties.Resources.resources
+D:\Box\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csproj.GenerateResource.Cache
+D:\Box\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe
+D:\Box\NeuralImages\NeuralImages\bin\Debug\NeuralImages.pdb
+D:\Box\NeuralImages\NeuralImages\obj\Debug\NeuralImages.exe
+D:\Box\NeuralImages\NeuralImages\obj\Debug\NeuralImages.pdb
+D:\Box\group3\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe.config
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.exe
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.pdb
+D:\Box\group3\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe
+D:\Box\group3\NeuralImages\NeuralImages\bin\Debug\NeuralImages.pdb
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csprojResolveAssemblyReference.cache
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\MainWindow.baml
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\MainWindow.g.cs
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\App.g.cs
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages_MarkupCompile.cache
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.g.resources
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.Properties.Resources.resources
+D:\Box\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csproj.GenerateResource.Cache
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe.config
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.exe
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.pdb
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\bin\Debug\NeuralImages.pdb
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csprojResolveAssemblyReference.cache
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\MainWindow.baml
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\MainWindow.g.cs
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\App.g.cs
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages_MarkupCompile.cache
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.g.resources
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.Properties.Resources.resources
+e:\учеба\Коммандная разработка ПО\Сетевой проект\group3\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csproj.GenerateResource.Cache
+E:\Repo\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe.config
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\NeuralImages.exe
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\NeuralImages.pdb
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csprojResolveAssemblyReference.cache
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\MainWindow.baml
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\MainWindow.g.cs
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\App.g.cs
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\NeuralImages_MarkupCompile.cache
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\NeuralImages.g.resources
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\NeuralImages.Properties.Resources.resources
+E:\Repo\NeuralImages\NeuralImages\obj\Debug\NeuralImages.csproj.GenerateResource.Cache
+E:\Repo\NeuralImages\NeuralImages\bin\Debug\NeuralImages.exe
+E:\Repo\NeuralImages\NeuralImages\bin\Debug\NeuralImages.pdb

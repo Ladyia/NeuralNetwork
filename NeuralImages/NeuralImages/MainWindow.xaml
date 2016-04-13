@@ -1,0 +1,44 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="NeuralImages.MainWindow"
+        Title="MainWindow" Height="350" Width="840.575" Loaded="LoadedWin" FontFamily="Arial">
+    <Grid x:Name="MainGrid" Height="319" VerticalAlignment="Top">
+        <Menu HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="517" Background="White" FontFamily="Arial">
+            <MenuItem x:Name="fileMenuItem" Header="Файл" Width="42">
+                <MenuItem x:Name="createFileMenuItem" Header="Создать" HorizontalAlignment="Left" Width="140" Click="Create"/>
+                <MenuItem x:Name="loadFileMenuItem" Header="Загрузить" HorizontalAlignment="Left" Width="140" Click="Load"/>
+                <MenuItem x:Name="saveFileMenuItem" Header="Сохранить" HorizontalAlignment="Left" Width="144" Click="Save" Margin="0,0,-4,0"/>
+            </MenuItem>
+        </Menu>
+
+        <Grid x:Name="createGrid" HorizontalAlignment="Left" Height="264" VerticalAlignment="Top" Width="334" d:IsHidden="True">
+            <Button x:Name="addButton" Content="Добавить слой" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,117,0,0" Height="34" Click="addButton_Click"/>
+            <Button x:Name="createButton" Content="Создать сеть" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="154,117,0,0" RenderTransformOrigin="0.532,0.45" Height="34" Click="createButton_Click"/>
+            <TextBlock x:Name="netText" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Сеть:" VerticalAlignment="Top" Margin="10,156,0,0" Height="99" Width="314"/>
+            <TextBox x:Name="neuroText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="10,74,0,0"/>
+            <Label Content="Количество нейронов" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="154,68,0,0" Width="139" RenderTransformOrigin="-0.573,5.385" Height="29"/>
+            <Label Content="Имя сети" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="154,26,0,0" Width="120"/>
+            <TextBox x:Name="netName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="10,26,0,0"/>
+        </Grid>
+        <Grid x:Name="netGrid" HorizontalAlignment="Left" Height="319" VerticalAlignment="Top" Width="517">
+            <Button x:Name="startButton" Content="Тест" HorizontalAlignment="Left" Margin="587,161,-282,115" RenderTransformOrigin="0.573,0.56" Width="212" Click="startButton_Click"/>
+            <Button x:Name="teachButton" Content="Обучить полностью" HorizontalAlignment="Left" Margin="587,268,-282,8" RenderTransformOrigin="0.573,0.56" Width="212" Click="teachButton_Click"/>
+            <Button x:Name="OneImageTeach" Content="Обучить по одному изображению" HorizontalAlignment="Left" Margin="587,222,-282,0" VerticalAlignment="Top" Width="212" Height="41" Click="OneImageTeachClick"/>
+            <Image x:Name="imageLoad" HorizontalAlignment="Left" Height="100" Width="100" Margin="587,18,-170,0" VerticalAlignment="Top" RenderTransformOrigin="0.02,0.58">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="0"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <TextBlock x:Name="outputText" Margin="86,18,-40,0" TextWrapping="Wrap" Text="Вывод:" VerticalAlignment="Top" Height="291"/>
+            <ComboBox x:Name="imageComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Margin="10,33,0,0" Height="25" IsReadOnly="True" SelectionChanged="imageComboBox_SelectionChanged"/>
+           
+        </Grid>
+
+    </Grid>
+</Window>
